@@ -1,7 +1,5 @@
 abc
-add one
 123
 
-two spaces
 add two
 added by local
